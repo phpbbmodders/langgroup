@@ -16,5 +16,5 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'LANGGROUP_NOT_ENABLEABLE' => 'Language groups could not be enabled. It requires phpBB 3.3.19 or a later 3.3 release, and PHP 8.3.36 or later.',
+	'LANGGROUP_NOT_ENABLEABLE' => 'Language groups could not be enabled. It requires phpBB 3.3.19 or a later 3.3 release, and PHP 8.1 or later.',
 ));
