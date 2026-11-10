@@ -9,8 +9,8 @@ An extension to automatically move a user to a group based on their language cho
 [![Total Downloads](https://poser.pugx.org/david63/langgroup/downloads)](https://packagist.org/packages/david63/langgroup)
 
 ## Minimum Requirements
-  * phpBB 3.3.0
-  * PHP 7.1.3
+  * phpBB 3.3.19 or later
+  * PHP 8.1 or later
 
 ## Install
  1. [Download the latest release](https://github.com/david63/langgroup/archive/3.3.zip) and unzip it.
